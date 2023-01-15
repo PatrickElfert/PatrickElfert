@@ -6,10 +6,14 @@ Software Engineer, Tech Enthusiast, Human
 
 Patrick is a Software Engineer with a special passion for modern Web technologies. He is currently working as a Full Stack Developer in the field of Life Science
 
-*   🌍  I'm based in Bayreuth, Germany
-*   ✉️  You can contact me at [patrickelfert5@gmail.com](mailto:patrickelfert5@gmail.com)
-*   🚀  I'm currently working on [Xavo R3](http://xavo.com/product/)
-*   🧠  I'm learning Java Spring Boot, CSS in depth### Skills 
+* 🌍  I'm based in Bayreuth, Germany
+* ✉️  You can contact me at [patrickelfert5@gmail.com](mailto:patrickelfert5@gmail.com)
+* 🚀  I'm currently working on [Xavo R3](http://xavo.com/product/)
+* 🧠  I'm learning Java Spring Boot, CSS in depth
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -27,14 +31,12 @@ Patrick is a Software Engineer with a special passion for modern Web technologie
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/PatrickElfert" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/patrick-elfert-983547149" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/elfert_patrick" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<a href="https://github.com/PatrickElfert" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickElfert&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/PatrickElfert" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/patrick-elfert-983547149" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/elfert_patrick" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<a href="https://github.com/PatrickElfert" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickElfert&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
