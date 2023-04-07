@@ -8,7 +8,9 @@ Patrick is a Software Engineer with a special passion for modern Web technologie
 
 * 🌍  I'm based in Bayreuth, Germany
 * ✉️  You can contact me at [patrickelfert5@gmail.com](mailto:patrickelfert5@gmail.com)
-* 🚀  I'm currently working on [Xavo R3](http://xavo.com/product/)
+* 🚀  I'm currently working at [Conplement AG](https://www.conplement.de/)
+
+
 
 ### Skills
 
