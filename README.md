@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer, Tech Enthusiast, Human
 -----------------------------------------
 
-Patrick is a Software Engineer with a special passion for modern Web technologies. He is currently working as a Full Stack Developer in the field of Life Science.
-
+Patrick is a Software Engineer with a special passion for modern Web technologies. He is currently working as a Full Stack Developer with C# and Angular.
 * 🌍  I'm based in Bayreuth, Germany
 * ✉️  You can contact me at [patrickelfert5@gmail.com](mailto:patrickelfert5@gmail.com)
 * 🚀  I'm currently working at [Conplement AG](https://www.conplement.de/)
