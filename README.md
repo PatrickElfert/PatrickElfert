@@ -1,12 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Patrick Elfert
 ======================================================================================================================================
 
-Software Engineer, Tech Enthusiast, Human
+Curious about the world, good ideas, and genuine people.
 -----------------------------------------
 
-Patrick is a Software Engineer with a special passion for modern Web technologies. He is currently working as a Full Stack Developer with C# and Angular.
 * 🌍  I'm based in Bayreuth, Germany
-* ✉️  You can contact me at [patrickelfert5@gmail.com](mailto:patrickelfert5@gmail.com)
+* ✉️  You can contact me at [patrickelfert5@gmail.com](mailto:patrickelfert5@icloud.com)
 * 🚀  I'm currently working at [Conplement AG](https://www.conplement.de/)
 
 
@@ -34,4 +33,4 @@ Patrick is a Software Engineer with a special passion for modern Web technologie
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/PatrickElfert" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/patrick-elfert-983547149" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/elfert_patrick" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/PatrickElfert" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/patrick-elfert-983547149" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/elfert_pat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
